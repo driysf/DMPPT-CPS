@@ -6,8 +6,8 @@ The JModelica environment is needed to execute this simulation
 
 1/Execute the Python script sim.py to lunch the simulation
 
-2/The results files will be saved on the repository with the extension .txt
+2/The result files will be saved on the current repository with the extension '.txt'
 
-3/Plot the results by executing the  Python script plot.py 
+3/Plot the results by executing the Python script plot.py 
 
 
